@@ -1,4 +1,4 @@
-# Hi there
+# Ciao,
 
 I am Lorenzo Biondi, a graduate student in Economics.  
 My main research interests are macroeconomics, macroeconometrics, and complexity economics.
